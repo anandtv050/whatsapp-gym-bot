@@ -4,8 +4,9 @@
   "description": "A WhatsApp chatbot that helps users interact with your gym through automated responses. Members can book workout slots, check membership status, talk to trainers, make payments, view class schedules, and more.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "start": "node index.js",
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -23,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/anandtv050/whatsapp-gym-bot/issues"
   },
+  
   "homepage": "https://github.com/anandtv050/whatsapp-gym-bot#readme"
+
+  
 }
